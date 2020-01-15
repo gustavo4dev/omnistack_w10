@@ -1,0 +1,12 @@
+Conceitos basicos react
+
+Componente: bloco isolado de HTML, CSS e JS, que não interfere no restante do layout;
+    Exemplo, tabela de listagem não interfere no cabeçalho da pagina, portanto são componentes separados;
+
+Propriedade: São como atributos no html como no caso do href da tag <a>, acessiver na variável props recebida na chamada da função do componente;
+
+Estado: Informações mantidas pelo componente (imutabilidade). Não altera uma informação/variável diretamente, deve ser alterado seu estado.
+
+
+
+
